@@ -7,7 +7,7 @@
 ## 🎯 Features
 
 - 📄 **Invoice Ingestion**: Upload PDFs and extract structured data using OCR.
-- 🔍 **RAG Pipeline**: Semantic search with LangChain + Chroma + Sentence Transformers.
+- 🔍 **RAG Pipeline**: Semantic search with LangChain + FAISS + Sentence Transformers.
 - 🧠 **LLM Reasoning**: Ask natural language questions about your invoices.
 - 🎙️ **Voice Conversation Loop**:
   - Speech-to-text (STT) via Deepgram / ElevenLabs
