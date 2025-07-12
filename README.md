@@ -1,6 +1,6 @@
 # 🧾 Voice Invoice Assistant
 
-**AI-powered, voice-first invoice assistant** that lets users upload invoices (PDF), query them by voice, and get answers using Retrieval-Augmented Generation (RAG) and modern voice interfaces. Built with `FastAPI`, `LangChain`, `Chroma`, and `Streamlit` – powered by `OpenAI`, `ElevenLabs`.
+**AI-powered, voice-first invoice assistant** that lets users upload invoices (PDF), query them by voice, and get answers using Retrieval-Augmented Generation (RAG) and modern voice interfaces. Built with `FastAPI`, `LangChain`, `FAISS`, and `Streamlit` – powered by `OpenAI`, `ElevenLabs`.
 
 ---
 
